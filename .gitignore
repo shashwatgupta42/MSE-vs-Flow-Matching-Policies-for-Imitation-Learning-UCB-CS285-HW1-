@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.git/
+.venv/
+*.egg-info/
+wandb/
+.vscode/
+.idea/
+.DS_Store
+.env
+
+# Data artifacts
+/data/
+src/hw1_imitation/data/
+checkpoints/
+videos/
+*.zip
+exp/
+
+# Modal logs/artifacts
+modal_volume/
+
