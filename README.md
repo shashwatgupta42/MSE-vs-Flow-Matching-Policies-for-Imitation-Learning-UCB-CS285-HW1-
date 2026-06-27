@@ -5,7 +5,7 @@
 [![Gymnasium](https://img.shields.io/badge/gymnasium-PushT--v0-green.svg)](https://gymnasium.farama.org/)
 [![WandB](https://img.shields.io/badge/wandb-active-amber.svg)](https://wandb.ai/)
 
-This repository contains an implementation and comparative analysis of two imitation learning methods applied to the **Push-T** robotic manipulation task. The project is from the UCB CS285 (Deep Reinforcement Learning) Homework 1, demonstrating the power of generative policies (Flow Matching) over regression-based behavioral cloning in tasks with multi-modal expert demonstrations.
+This repository contains an implementation and comparative analysis of two imitation learning methods applied to the **Push-T** robotic manipulation task. The project is from the UCB CS285 (Deep Reinforcement Learning) Homework 1 ([https://github.com/berkeleydeeprlcourse/homework_spring2026/tree/main/hw1](url)), demonstrating the power of generative policies (Flow Matching) over regression-based behavioral cloning in tasks with multi-modal expert demonstrations.
 
 ---
 
